@@ -1,0 +1,4 @@
+﻿  01 单项链表_企业版.c
+D:\桌面\vsProject\DataStructure\Day2\01 单项链表_企业级\01 单项链表_企业版\01 单项链表_企业版\01 单项链表_企业版.c(169,62): warning C4098: “myComparePerson”:“void”函数返回值
+D:\桌面\vsProject\DataStructure\Day2\01 单项链表_企业级\01 单项链表_企业版\01 单项链表_企业版\01 单项链表_企业版.c(195,37): warning C4133: “函数”: 从“void (__cdecl *)(void *,void *)”到“int (__cdecl *)(void *,void *)”的类型不兼容
+  01 单项链表_企业版.vcxproj -> D:\桌面\vsProject\DataStructure\Day2\01 单项链表_企业级\01 单项链表_企业版\x64\Debug\01 单项链表_企业版.exe
